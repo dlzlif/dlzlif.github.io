@@ -607,7 +607,8 @@ gitment.render('container')
   
     <div class="comments" id="comments">
       
-        <div id="gitment-container"></div>
+        <div onclick="showGitment()" id="gitment-display-button">显示 Gitment 评论</div>
+        <div id="gitment-container" style="display:none"></div>
       
     </div>
 
@@ -923,7 +924,7 @@ gitment.render('container')
             owner: 'dlzlif',
             repo: 'dlzlif.github.io',
             
-            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            lang: "zh-Hans" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
             
             oauth: {
             
@@ -936,7 +937,11 @@ gitment.render('container')
       }
 
       
-      renderGitment();
+      function showGitment(){
+        document.getElementById("gitment-display-button").style.display = "none";
+        document.getElementById("gitment-container").style.display = "block";
+        renderGitment();
+      }
       
       </script>
     
