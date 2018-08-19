@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-19T14:20:28.183Z</updated>
+  <updated>2018-08-16T14:34:31.922Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,36 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>更新内容</title>
-    <link href="http://yoursite.com/2018/08/17/filename/"/>
-    <id>http://yoursite.com/2018/08/17/filename/</id>
-    <published>2018-08-17T15:09:25.116Z</published>
-    <updated>2018-08-19T14:20:28.183Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;小书匠收费&quot;&gt;&lt;a href=&quot;#小书匠收费&quot; class=&quot;headerlink&quot; title=&quot;小书匠收费&quot;&gt;&lt;/a&gt;小书匠收费&lt;/h1&gt;&lt;h2 id=&quot;收费与不收费的区别&quot;&gt;&lt;a href=&quot;#收费与不收费的区别&quot; class=&quot;headerlink&quot; title=&quot;收费与不收费的区别&quot;&gt;&lt;/a&gt;收费与不收费的区别&lt;/h2&gt;&lt;h3 id=&quot;收费&quot;&gt;&lt;a href=&quot;#收费&quot; class=&quot;headerlink&quot; title=&quot;收费&quot;&gt;&lt;/a&gt;收费&lt;/h3&gt;&lt;h4 id=&quot;收费项目&quot;&gt;&lt;a href=&quot;#收费项目&quot; class=&quot;headerlink&quot; title=&quot;收费项目&quot;&gt;&lt;/a&gt;收费项目&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;pdf 定制化导出(pdf封面，水印，加密等)&lt;/li&gt;
-&lt;li&gt;支持在线更新，优先使用新功能&lt;/li&gt;
-&lt;li&gt;配置数据同步&lt;/li&gt;
-&lt;li&gt;自定义数据中心&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;收费价格&quot;&gt;&lt;a href=&quot;#收费价格&quot; class=&quot;headerlink&quot; title=&quot;收费价格&quot;&gt;&lt;/a&gt;收费价格&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;一年 20￥, 两年 40￥。 目前只支持两年，如果付费超过 40￥,只能算做两年的套餐。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;不收费&quot;&gt;&lt;a href=&quot;#不收费&quot; class=&quot;headerlink&quot; title=&quot;不收费&quot;&gt;&lt;/a&gt;不收费&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;免费又实用的功能太多了，不知道重点写什么好，自己到 &lt;a href=&quot;http://soft.xiaoshujiang.com/feature.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://soft.xiaoshujiang.com/feature.html&lt;/a&gt; 这里看吧…..&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;其他&quot;&gt;&lt;a href=&quot;#其他&quot; class=&quot;headerlink&quot; title=&quot;其他&quot;&gt;&lt;/a&gt;其他&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://soft.xiaoshujiang.com/price.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://soft.xiaoshujiang.com/price.html&lt;/a&gt;&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="更新说明,小书匠" scheme="http://yoursite.com/tags/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E-%E5%B0%8F%E4%B9%A6%E5%8C%A0/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
